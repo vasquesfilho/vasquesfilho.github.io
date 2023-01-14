@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Demi Vasques"
-  avatar           : "/images/demi_profile.jpg"
+  avatar           : "images/demi-profile.jpg"
   bio              : "Complexity, networks, and computational methods in the humanities and social sciences"
   location         : "Mainz, Germany"
   employer         : 
