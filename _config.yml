@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Demi Vasques"
-  avatar           : "images/demi-profile.png"
+  avatar           : "demi-profile.jpg"
   bio              : "Complexity, networks, and computational methods in the humanities and social sciences"
   location         : "Mainz, Germany"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=f8pD2ucAAAAJ&hl=en"
-  email            :  "vasquesfilho [at] ieg-mainz.de"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "vasquesfilho [at] ieg-mainz.de"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
