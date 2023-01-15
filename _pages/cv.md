@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. Physics, The Univesity of Auckland, 2019
+* B.Eng. Engineering Physics, Federal University of Sao Carlos (UFSCar), 2005
 
-Work experience
+
+Appointments
 ======
 * Summer 2015: Research Assistant
   * Github University
